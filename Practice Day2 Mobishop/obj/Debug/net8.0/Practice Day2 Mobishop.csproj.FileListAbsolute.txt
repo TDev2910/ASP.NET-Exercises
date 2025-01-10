@@ -1,0 +1,34 @@
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\appsettings.Development.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\appsettings.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.staticwebassets.runtime.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.staticwebassets.endpoints.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.exe
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.deps.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.runtimeconfig.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.dll
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\bin\Debug\net8.0\Practice Day2 Mobishop.pdb
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.AssemblyInfoInputs.cache
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.AssemblyInfo.cs
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.csproj.CoreCompileInputs.cache
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.RazorAssemblyInfo.cache
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.RazorAssemblyInfo.cs
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\scopedcss\bundle\Practice Day2 Mobishop.styles.css
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\scopedcss\projectbundle\Practice Day2 Mobishop.bundle.scp.css
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets\msbuild.Practice Day2 Mobishop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets\msbuild.Practice Day2 Mobishop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets\msbuild.build.Practice Day2 Mobishop.props
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practice Day2 Mobishop.props
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practice Day2 Mobishop.props
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.dll
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\refint\Practice Day2 Mobishop.dll
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.pdb
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\Practice Day2 Mobishop.genruntimeconfig.cache
+D:\C#\Asp.net\Practice Day2 Mobishop\Practice Day2 Mobishop\obj\Debug\net8.0\ref\Practice Day2 Mobishop.dll

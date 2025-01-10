@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Practice Day2 Mobishop.props" />
+</Project>

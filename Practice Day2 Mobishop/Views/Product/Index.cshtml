@@ -1,0 +1,31 @@
+﻿<div class="container-fluid" style="padding: 0; margin: 0;">
+    <div class="banner">
+        <img src="~/Img/banner.jpg" alt="Banner" style="width: 100%; height: auto; display: block;">
+    </div>
+</div>
+<div class="container">
+    <br />
+    <h1 class="text-center mb-6">Sản Phẩm Nổi Bật</h1>
+    <br />
+    <br />
+    <div class="row g-4 justify-content-center">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img class="card-img-top" src="@product.Image" alt="@product.Name" style="height: 350px; object-fit: contain; border-radius: 10px;">
+                    <div class="card-body">
+                        <h5 class="card-title text-center mb-2">@product.Name</h5>
+                        <p class="card-text text-center mb-2">@product.ShortDescription</p>
+                        <p class="card-price text-center mb-2" style="font-size: 1.25rem; color: red; font-weight: bold;">@product.Price đ</p>
+                        <p class="card-discount text-center mb-2" style="text-decoration: line-through; color: grey;">@product.OriginalPrice đ</p>
+                        <p class="card-stock text-center mb-2" style="color: orange; font-weight: bold;">Còn @product.Stock/@product.TotalStock suất</p>
+                        <div class="text-center">
+                            <a href="/Product/Details/@product.Id" class="btn btn-primary">Mua ngay</a>  @* Button dẫn đến đường dẫn Details *@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

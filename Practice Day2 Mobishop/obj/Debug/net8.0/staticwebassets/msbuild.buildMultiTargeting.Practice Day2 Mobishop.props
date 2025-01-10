@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practice Day2 Mobishop.props" />
+</Project>

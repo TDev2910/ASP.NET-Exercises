@@ -1,0 +1,42 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="container mt-5">
+    <div class="row align-items-center">
+        <!-- Form Section -->
+        <div class="col-md-6">
+            <h2 class="mb-4">Đăng nhập</h2>
+            <p class="text-muted mb-4">Đăng nhập vào tài khoản của bạn để tiếp tục.</p>
+            <form>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email *</label>
+                    <input type="email" class="form-control" id="email" placeholder="Email *" required>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Mật khẩu *</label>
+                    <input type="password" class="form-control" id="password" placeholder="Password *" required>
+                </div>
+                <div class="d-flex justify-content-between mb-3">
+                    <div>
+                        <input type="checkbox" id="keepLogin">
+                        <label for="keepLogin">Giữ đăng nhập</label>
+                    </div>
+                    <a href="#" class="text-decoration-none">Quên mật khẩu?</a>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Submit</button>
+                <div class="text-center mt-3">
+                    <span>New User? <a href="#" class="text-decoration-none">Sign Up</a></span>
+                </div>
+            </form>
+        </div>
+
+        <!-- Illustration Section -->
+        <div class="col-md-6 text-center">
+            <img src="~/Img/tommy.jpg" alt="Login illustration" class="img-fluid">
+        </div>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+﻿@model Day2InClass.Models.Product
+
+<div class="product-detail-container" style="max-width: 900px; margin: auto; font-family: Arial, sans-serif;">
+    <h1 class="text-center" style="font-size: 2rem; margin-bottom: 20px;">@Model.Name</h1>
+
+    <div class="product-overview text-center" style="margin-bottom: 20px;">
+        <img src="@Model.Image" alt="@Model.Name" style="max-width: 500px; height: auto; border-radius: 10px;" />
+    </div>
+
+    @* Mô tả chi tiết sản phẩm  *@
+
+    <div class="product-specifications" style="border-top: 1px solid #ddd; padding-top: 20px;">
+        <h2 class="mb-3" style="font-size: 1.5rem;">Thông số kỹ thuật</h2>
+        <ul class="list-unstyled">
+            <li><strong>Màn hình:</strong> @Model.Screen</li>
+            <li><strong>Hệ điều hành:</strong> @Model.OS</li>
+            <li><strong>Camera:</strong> @Model.Camera</li>
+            <li><strong>RAM:</strong> @Model.RAM</li>
+            <li><strong>Bộ nhớ:</strong> @Model.Storage</li>
+            <li><strong>Bảo hành:</strong> @Model.Warranty</li>
+        </ul>
+    </div>
+
+    @* Quay lại trang sản phẩm *@
+
+    <div class="back-link text-center mt-4">
+        <a href="/Product" class="btn btn-primary">Quay lại trang sản phẩm</a>
+    </div>
+
+    @* Mô tả phần cam kết sản phẩm của cửa hàng *@
+
+    <div class="product-commitments mt-5" style="border-top: 1px solid #ddd; padding-top: 20px; font-family: Arial, sans-serif;">
+        <h2 class="mb-3" style="font-size: 1.5rem;">Cửa Hàng Hùng FKT Xin Cam Kết</h2>
+        <div class="d-flex justify-content-between align-items-start gap-4">
+            <div class="d-flex align-items-start gap-2" style="flex: 1;">
+                <img src="/Img/Transfer.png" alt="Đổi trả" style="width: 40px; height: 40px;" />
+                <p class="m-0">
+                    1 đổi 1 trong <strong>30 ngày</strong> đối với sản phẩm lỗi tại 2961 siêu thị toàn quốc
+                    <a href="#" class="text-primary">Xem chi tiết</a>
+                </p>
+            </div>
+            <div class="d-flex align-items-start gap-2" style="flex: 1;">
+                <img src="/Img/Box.png" alt="Bộ sản phẩm" style="width: 40px; height: 40px;" />
+                <p class="m-0">
+                    Bộ sản phẩm gồm: Sách hướng dẫn, Hộp máy, Cáp Type C - Type A, Củ sạc rời đầu Type A
+                </p>
+            </div>
+            <div class="d-flex align-items-start gap-2" style="flex: 1;">
+                <img src="/Img/Shield.png" alt="Bảo hành" style="width: 40px; height: 40px;" />
+                <p class="m-0">
+                    Bảo hành <strong>chính hãng máy tính bảng 13 tháng</strong> tại các trung tâm bảo hành hãng
+                    <a href="#" class="text-primary">Xem địa chỉ bảo hành</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
